@@ -3,6 +3,10 @@
     background-color: #f1fac1;
     text-align:center;
 }
+body{
+    margin: 0px;
+}
+
 .heading{
     width: 100%;
     padding-top: 25px;
