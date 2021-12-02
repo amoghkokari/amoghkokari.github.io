@@ -1,5 +1,5 @@
 .heading-container{
-    background-image: url("media/images/cover.png");
+    background-image: url("media/images/cover2.png");
     background-color: #f1fac1;
     text-align:center;
 }
@@ -9,7 +9,7 @@ body{
 
 .heading{
     width: 100%;
-    padding-top: 25px;
+    padding-top: 50px;
     height: 12px;
     text-align: center;
 }
