@@ -1,0 +1,25 @@
+.heading-container{
+    background-image: url("media/images/cover.png");
+    background-color: #f1fac1;
+    text-align:center;
+}
+.heading{
+    width: 100%;
+    padding-top: 25px;
+    height: 12px;
+    text-align: center;
+}
+.name-container{
+    font-style: bold;
+}
+.body-container{
+    padding: 20px;
+    background-color: #FFE89F;
+}
+.social-tab{
+    padding-top: 5px;
+}
+.address-tab{
+    padding-top: 5px;
+    background-color: #ffc4023f;
+}
