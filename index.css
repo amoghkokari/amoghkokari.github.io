@@ -17,9 +17,10 @@
     background-color: #FFE89F;
 }
 .social-tab{
-    padding-top: 5px;
+    padding-top: 11px;
 }
 .address-tab{
-    padding-top: 5px;
+    padding: 5px;
+    border-radius: 11%;
     background-color: #ffc4023f;
 }
