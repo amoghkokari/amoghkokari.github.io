@@ -28,3 +28,7 @@ body{
     border-radius: 11%;
     background-color: #ffc4023f;
 }
+body a, a:visited{
+    text-decoration: none;
+    color:#000;
+}
