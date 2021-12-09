@@ -1,6 +1,6 @@
 .heading-container{
     background-image: url("media/images/cover.png");
-    background-color: #f1fac1;
+    background-color: #ffffff;
     text-align:center;
 }
 body{
@@ -10,7 +10,7 @@ body{
 .heading{
     width: 100%;
     padding-top: 50px;
-    height: 12px;
+    height: 41px;
     text-align: center;
 }
 .name-container{
@@ -18,7 +18,7 @@ body{
 }
 .body-container{
     padding: 20px;
-    background-color: #FFE89F;
+    background-color: #ffffff;
 }
 .social-tab{
     padding-top: 11px;
@@ -26,7 +26,7 @@ body{
 .address-tab{
     padding: 5px;
     border-radius: 11%;
-    background-color: #ffc4023f;
+    background-color: #ffffff3f;
 }
 body a, a:visited{
     text-decoration: none;
