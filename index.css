@@ -34,6 +34,7 @@ body a, a:visited{
     color:rgb(97, 0, 0);
 }
 
+<<<<<<< HEAD
 .g-form{
     text-align: center;
     padding-top: 20px;
@@ -75,3 +76,10 @@ body a, a:visited{
     padding-left: 20px;
     padding-right: 20px;
 }
+=======
+.Neko-tine{
+    padding-top: 11px;
+    padding-bottom: 11px;
+    text-align: center;
+}
+>>>>>>> 85ecd5540bc7b5202af9b1d349f248ddef4bdce9
