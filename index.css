@@ -34,52 +34,60 @@ body a, a:visited{
     color:rgb(97, 0, 0);
 }
 
-<<<<<<< HEAD
 .g-form{
     text-align: center;
     padding-top: 20px;
 }
-
-.float-cont1{
-    padding-top: 20px;
-    padding-bottom: 50px;
-    /* padding-left: 41px;
-    padding-right: 41px; */
-    display: grid;
-    /* grid-auto-columns: auto; */
-    grid-gap: 20px;
-    grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: none;
-    text-align: center;
+@media screen and (max-width: 1000px){
+    .float-cont1{
+        padding-top: 20px;
+        padding-bottom: 50px;
+        /* padding-left: 41px;
+        padding-right: 41px; */
+        display: grid;
+        /* grid-auto-columns: auto; */
+        grid-gap: 20px;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: none;
+        /* text-align: center; */
+        display: flex;
+        justify-content: space-between;
+    }
 }
+
 
 .Neko-tine{
-    float: left;
+    /* float: left; */
     padding-left: 20px;
     padding-right: 20px;
+    text-align: center;
+    
 }
+/* .nekotineiframe{
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 14%;
+    width: 400px !important;
+    height: 800px !important;
+
+ } */
 
 .NGA{
-    float: left;
+    /* float: left; */
     padding-left: 20px;
     padding-right: 20px;
+    text-align: center;
 }
 
 .Nioneer{
-    float: left;
+    /* float: left; */
     padding-left: 20px;
     padding-right: 20px;
+    text-align: center;
 }
 
 .Qzee{
-    float: left;
+    /* float: left; */
     padding-left: 20px;
     padding-right: 20px;
-}
-=======
-.Neko-tine{
-    padding-top: 11px;
-    padding-bottom: 11px;
     text-align: center;
 }
->>>>>>> 85ecd5540bc7b5202af9b1d349f248ddef4bdce9
